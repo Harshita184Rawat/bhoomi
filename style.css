@@ -1,0 +1,81 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    padding-left: 30px;
+}
+
+#heart{
+    padding-left: 1380px;
+}
+#sushant-feature{
+    width: 100%;
+    margin-top: 0px;
+    height: 800px;
+
+}
+
+button{
+    height: 60px;
+    width: 100px;
+    border-radius: 12px;
+    background-color: rgb(143, 216, 216);
+    border-color: rgb(153, 194, 194);
+    box-shadow: 4px 4px 3px black ;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#blank{
+    background-color: yellow;
+    margin-bottom: 0px;
+}
+
+#nav-bar{
+    list-style-type: none;
+    width: 100%;
+}
+
+.nav-item{
+    background-color: rgb(134, 134, 172);
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-left: 0px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.nav-item:hover{
+    background-color: yellow;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(189, 182, 182);
+    padding-top: 0px;
+    margin-top: 20pxpx;
+
+}
+
+#about-him{
+    font-size: 30px;
+    border: 2px yellow solid;
+    padding: 5px;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: 20px;
+    color: purple;
+}
+
+#early{
+    font-size: 30pxpx;
+}
